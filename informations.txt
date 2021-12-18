@@ -1,0 +1,28 @@
+/************************************************************************************************/
+/* 												*/
+/* CREATED BY : Marion ESCOUTELOUP								*/
+/* FIRST CREATION : 17/12/2021									*/
+/*												*/
+/*												*/
+/************************************************************************************************/
+GOALS : 
+
+SOFTWARE NEEDS AND CONFIGURATION : 
+	--> Python compilator 
+	--> PyQT.exe 
+
+	--> Arduino compilotor
+	--> IDE Arduino
+
+
+FIRMWARE NEEDS AND CONFIGURATION : 
+	--> Old TV or just a screen with HDMI connnection
+	--> RaspBerry 4 B - 8GB (or 4gb)
+		- SD 64go or 128go
+		- Raspberry Cam
+		- Power Supply
+	--> Arduino 
+
+	--> Anet A8 print 
+
+HARDWARE NEEDS AND  CONFIGURATION : 
